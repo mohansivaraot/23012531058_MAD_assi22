@@ -1,3 +1,3 @@
 AIM: SAMPLE ATM SYSTEM
 
-![image alt](https://github.com/mohansivaraot/23012531058_MAD_assi22/blob/0d5da74689a00e4798a5da5423ed400f42168f2c/Screenshot%202025-11-18%20231341.png)
+![image alt](https://github.com/mohansivaraot/23012531058_MAD_assi22/blob/ac34e1e2019b1da92b5f64a3e53f441220165aca/Screenshot%202025-11-27%20231426.png)
